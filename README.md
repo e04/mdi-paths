@@ -16,11 +16,11 @@ const marker = new google.maps.Marker({
     map: map,
     position: new google.maps.LatLng(0, 0),
     icon: {
-                fillColor: '#FFFFFF',
-                fillOpacity: 1,
-                path: library_books,
-                strokeColor: '#000000',
-                strokeWeight: 2,
+        fillColor: '#FFFFFF',
+        fillOpacity: 1,
+        path: library_books,
+        strokeColor: '#000000',
+        strokeWeight: 2,
     },
 })
 
