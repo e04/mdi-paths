@@ -1,4 +1,5 @@
 # mdi-paths
+![main_image](https://user-images.githubusercontent.com/47185462/69007751-2d16f100-0985-11ea-9868-203312113bd1.png)
 
 This library is a collection of SVG paths, sourced from [the MaterialDesign project](https://github.com/google/material-design-icons). In particular, this was created for Google Maps API v3 markers.
 
